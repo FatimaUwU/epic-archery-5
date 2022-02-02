@@ -1,2 +1,1 @@
-# epic-archery-5
-yes
+# Project Template 26
